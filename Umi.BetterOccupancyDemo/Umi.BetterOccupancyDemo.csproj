@@ -19,7 +19,7 @@
 
   <ItemGroup>
     <Reference Include="Basilisk">
-      <HintPath>..\..\..\umi\Basilisk.dll</HintPath>
+      <HintPath>C:\UMI\Basilisk.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
